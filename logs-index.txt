@@ -1,0 +1,5 @@
+log 44: good roll data, plus some garbage
+log 45: loop around the cut
+log 46: straight line on the cut
+
+all other logs not used
